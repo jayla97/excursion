@@ -1,0 +1,23 @@
+h1,.in{color:white;
+text-align: center;
+font-size: 50px;
+font-weight: normal;
+font-family: verdana;
+}
+html{background-color: black;}
+html{font-family: verdana;}
+.cta,p{color: Aquamarine;
+  text-align: center;
+  font-size: 16px;
+}
+video{color: white;}
+h1,.your{
+font-weight: 300;
+color: white;
+font-size: 42px;
+}
+p,.ex{color: grey;
+font-family: verdana;
+font-size: 21px;
+}
+#copy{text-align: right;}
